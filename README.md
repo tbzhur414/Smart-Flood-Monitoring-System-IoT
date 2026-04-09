@@ -41,18 +41,18 @@ A real-time IoT-based flood monitoring and early warning system using Arduino, s
   </tr>
 </table>
 
-## 🖼️ Project Gallery
+# 🖼️ Project Gallery
 
-**Blynk Mobile App Dashboard**  
+## Blynk Mobile App Dashboard 
 ![Blynk Dashboard](images/blynk-dashboard.png)
 
-**Circuit Diagram**  
-![Circuit Diagram](images/circuit-diagram.jpg)
+## Circuit Diagram  
+![Circuit Diagram](images/circuit-diagram.png)
 
-**Hardware Setup**  
+## Hardware Setup  
 ![Hardware Assembly](images/hardware-setup.jpg)
 
-**Team Working on Project**  
+## Team Working on Project  
 ![Team Photo](images/team-photo.png)
 
 ---
