@@ -5,8 +5,9 @@
 **University of Narowal, Pakistan**
 
 **Submitted by:**  
-- Muhammad Faizan (20-UON-1328)  
 - M Hur Abbas (20-UON-1321)
+- Muhammad Faizan (20-UON-1328)  
+
 
 **Supervised by:** Mr. Zishan Zafar
 
@@ -21,13 +22,24 @@ A real-time IoT-based flood monitoring and early warning system using Arduino, s
 ## 📄 Full Documentation
 **[Download Complete Project Report (PDF)](FLOOD-MONITORING-SYSTEM-DOCUMENTATION.pdf)**
 
+---
+
 ## 👥 Team Members
 
-| Muhammad Faizan                  | M Hur Abbas                     |
-|----------------------------------|---------------------------------|
-| ![Muhammad Faizan](images/muhammad-faizan.jpg) | ![M Hur Abbas](images/hur-abbas.jpg) |
-
----
+<table>
+  <tr>
+    <th align="center">M Hur Abbas</th>
+    <th align="center">Muhammad Faizan</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/hur-abbas.jpeg" width="280" alt="M Hur Abbas">
+    </td>
+    <td align="center">
+      <img src="images/muhammad-faizan.png" width="280" alt="Muhammad Faizan">
+    </td>
+  </tr>
+</table>
 
 ## 🖼️ Project Gallery
 
