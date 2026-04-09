@@ -53,7 +53,7 @@ A real-time IoT-based flood monitoring and early warning system using Arduino, s
 ![Hardware Assembly](images/hardware-setup.jpg)
 
 **Team Working on Project**  
-![Team Photo](images/team-photo.jpg)
+![Team Photo](images/team-photo.png)
 
 ---
 
