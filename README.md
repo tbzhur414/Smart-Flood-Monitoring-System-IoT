@@ -72,6 +72,11 @@ A real-time IoT-based flood monitoring and early warning system using Arduino, s
 - DHT11 Temperature/Humidity Sensor
 - 4-Channel Relay Module
 - ESP8266 WiFi Module
+  
+ ## 📝 Project Summary
+This project develops a real-time IoT-based flood early warning system to help reduce disaster risks in flood-prone areas. The system uses an ultrasonic water-level sensor (HC-SR04), rain sensor, and DHT11 temperature/humidity sensor connected to an Arduino Uno and ESP8266. Sensor data is continuously collected, processed through smart threshold logic, and instantly transmitted to the Blynk IoT platform, which sends mobile alerts and displays live readings on a web dashboard.
+Working as a group with one fellow student, I personally handled the full hardware design and assembly, wrote the complete Arduino C++ code, implemented cloud connectivity and mobile notifications, built the live monitoring dashboard, performed system testing and calibration, and prepared all technical documentation. I also created and maintain this GitHub repository.
+The final prototype successfully demonstrates how IoT, sensor networks, and real-time data processing can provide timely flood alerts and support community safety.
 
 ---
 
